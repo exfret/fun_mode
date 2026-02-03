@@ -1,0 +1,15 @@
+Burner inserter - More basic initial stuff, Upgrades
+Boiler - Fuel
+Lab - Advanced stuff, substation
+Repair packs - Equipment
+Explosives - Mining, Military
+
+Utility ~ Explosives, Repair packs
+Production ~ Boiler, Burner inserter, Lab
+
+
+
+Boilers used for good amount
+Burner inserters
+Repair packs to be for equipment
+Explosives covered

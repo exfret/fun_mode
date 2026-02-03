@@ -1,0 +1,1 @@
+Everything in this folder is taken from Krastorio2 with permission from its maintainer, Raiguard. Due to the license of the original software, the license of this code is different from the rest of the mod. Refer to the license in this folder.

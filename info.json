@@ -1,0 +1,15 @@
+{
+	"name": "fun_mode",
+	"version": "1.0.7",
+	"title": "Fun Mode",
+	"author": "exfret",
+	"factorio_version": "2.0",
+	"description": "The ultimate factorio meme mod. Filled with 100+ cursed gameplay changes, such as replacing small electric poles with big ones, causing coal to burn into fish, and adding more yummy science packs to slurp. Now with 100% more green!",
+	"dependencies": [
+		"base",
+		"discovery_tree",
+		"Krastorio2Assets",
+		"! rt-light-bot-start",
+		"! space-age"
+	]
+}

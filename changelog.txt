@@ -1,0 +1,416 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: ?
+  Features:
+    - Some changes for dosh dw about it
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2026.02.03
+  Features:
+    - Added permanence setting for those who want an unstable life
+    - Added supporters
+  Changes:
+    - Disabling upsetting visuals is no longer a setting because I don't think I ever really maintained it
+  Bugfixes:
+    - The lab productivity bonus seems to be fixed? I didn't do anything though idk
+    - Fixed some typos I left to test you guys - good job catching those
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 2025.09.06
+  Features:
+    - Added Serginov and Terold supporter fish!
+  Bugfixes:
+    - Wube has fixed Bob's cage, returning him to the realm of mortals as they always intended.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2025.08.15
+  Features:
+    - Added runelt99, MrE and DavidPT as supporter fish!
+  Bugfixes:
+    - Fixed fun mode breaking on 2.0.64 due to K2Assets changing some file names.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2025.07.28
+  Features:
+    - Added ExclusiveOr, Iterative Imp, Survivor205, juhelak, Eric, EulersApprentice, Henry30389 (Marrow beater), pheubel, sibuech, 00Shiaw00, Keyford, Nueroplastic, sejemsom, green8751, DoubLL, Tiksta, duhuhu_, Frogbottom, yiffweed, NovaLiminal, BaconDragon, adelrik12, JakeyGoat, Rvdy, JWop, INFERNOO, sassxolotl, Laramere and thyaxis as supporter fish!
+    - Added Greenosity values to help newer players.
+    - A free 50% productivity for anyone who has their productivity reset this update <3
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2025.04.03
+  Features:
+    - Added Magentanide and DocJade as supporter fish!
+    - Hey ma look! im on the fun mode changelog!
+    - Began preparing for the forgreenotten...
+  Bugfixes:
+    - Fixed the fact that the compilatron walking aniamtion was rudely removed without notifiyng the all great and powerful exfret first.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024.12.03
+  Features:
+    - Added Alodo, Thyme56, and the sauce as supporter fish
+  Changes:
+    - Increased supporter fish range
+    - Decreased fish for silo to 100 per letter F
+    - Made offshore pump 2 version 2 one dark green uranium
+  Bugfixes:
+    - Marked compatibility with Space Age
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024.11.28
+  Features:
+    - Added driving lessons
+  Changes:
+    - Made tank recipe massively simpler
+    - Congratulations message plays at a more appropriate time
+    - Reworked fish sacrifice amounts
+---------------------------------------------------------------------------------------------------
+Version: 0.2.7
+Date: 2024.11.26
+  Changes:
+    - Decreased cheeseman health by 5x factor
+---------------------------------------------------------------------------------------------------
+Version: 0.2.6
+Date: 2024.11.25
+  Features:
+    - Added a supporter fish for Izzabelle
+    - Added there is a spoon achievement
+    - Added "research with" achievements for most new science packs
+    - Renamed bulk inserters to stack inserters
+    - Made landfill cheap because I'm full of mercy and love
+    - Added some more for peperos (just a dad joke and achievement but still)
+  Changes:
+    - Increased the area for supporter fish to spawn from 10x10 to 12x12
+    - Bob no longer requires power
+    - Made rail signals craftable normally
+  Bugfixes:
+    - Actually fixed unboilers so they could be blueprinted
+    - Fixed that flipping could cheese the direction requirement on inserters
+    - Fixed corpses not teleporting
+    - Removed cheeseman spoiler in laser upgrades
+    - Added back empty barrels
+    - Fixed some item sounds
+---------------------------------------------------------------------------------------------------
+Version: 0.2.5
+Date: 2024.11.23
+  Bugfixes:
+    - Fixed crash when multiple players were moving at once with sit down and think research
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 2024.11.22
+  Bugfixes:
+    - Fixed startup crash from too many filters on inserter
+---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 2024.11.22
+  Bugfixes:
+    - Fixed some weirdness with the unboiler (or at least I thought so at the time)
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 2024.11.22
+  Changes:
+    - Moved multidirectional research to light green science
+    - Updated the description
+  Bugfixes:
+    - Fixed that solid steam would report acceleration/top speed multipliers despite not being able to be put into vehicles
+    - Marked incompatibility with light bot start
+    - Fixed that even offline players were counted for whether they were green
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2024.11.18
+  Bugfixes:
+    - Fixed crash every time a belt would rotate
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2024.11.18
+  Features:
+    - (Beta) Cat and cheeseman 2
+    - (Beta) Finished widget recipe changes
+    - (Beta) You now have to research pistols to unlock the rocket silo
+    - Actually, forget that, beta is now the default so you get all the new features!
+    - Added a 20.01m pole specifically for BLNK2563
+    - Setting to remove purely visual changes
+    - Two new sacrifices
+    - Made substations OP (you're welcome)
+  Changes:
+    - Express belts no longer require water 2 version 2
+    - (Beta) Rebalanced some researches around the new py science
+    - Burner inserter power usage is higher now
+    - Increased productivity from sacrifices greatly
+    - Removed copper cable and power armor as science packs due to confusion
+    - Removed iron ore output on red circuits
+  Bugfixes:
+    - Removed crash when taking items from dead corpses
+    - Fixed that pumps weren't unlockable
+    - Grape juice springs no longer give 300k resources when placed
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 2024.11.06
+  Features:
+    - Added some supporter fish
+    - Started work on a beta features mode
+    - (Beta) Starting patches always overlap
+    - Starting wooden armor with wooden roboport to make early game less painful
+    - Added some starting items to make the beginning faster
+    - Character corpses will sometimes teleport back to you, and they never expire
+    - Trains suck you in
+    - A second toolbelt research
+    - Productivity research for iron plates
+    - (Beta) Weird equipment shapes
+    - (Beta) Very advanced oil processing
+    - (Beta) Various green science packs
+    - (Beta) Gatekeeping red science more
+    - (Beta) The unboiler/solid steam
+    - (Beta) Added py science
+    - You know what, just read the beta-features.lua for all the beta features if you want
+    - Probably a lot of bugs...
+  Changes:
+    - Supporter fish now don't spawn right next to you
+    - Cliff explosive rocket is actually feasible to get now
+    - Character corpses don't expire
+  Bugfixes:
+    - Fixed missing key on yummy grape juice springs
+    - Fixed that cheeseman would spawn immediately when mining something rather than with a 1% chance
+    - Localizations for slurpy juices are now in after being accidentally removed
+    - Fixed oil patch sacrifice not working
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2024.10.27
+  Changes:
+    - Removed mining things only giving back their ingredients
+    - Some small tweaks
+  Bugfixes:
+    - Solved crash when spoons were inserted into a player's inventory while they were in map view
+    - Prevented productivity from giving free nuclear reactors on low density structures
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2024.10.26
+  Features:
+    - Removed evil spoilers like factoriopedia
+  Changes:
+    - Updated description on mod portal
+  Bugfixes:
+    - Added thumbnail back after accidentally getting rid of it
+    - Fixed possible bug where killing peperos then sacrificing him could cause a crash
+    - Removed softlock in the beginning where iron sticks were disabled
+    - Fixed boilers having wrong input/output directions for their pipe connections
+    - Fixed that cracking was still unavailable
+    - Fixed lubricant not being replaced in recipes properly
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024.10.23
+  Features:
+    - Ported to 2.0
+    - Added some oil-based silly localizations
+  Changes:
+    - Removed fast undergrounds being length 2 for other idea to be implemented at future date
+    - Removed sand
+    - Removed shifted icons (no longer supported by 2.0)
+    - Temporarily removed trains being invisible due to code needing a complete rewrite
+    - Removed roller skates (too jank for my liking)
+  Bugfixes:
+    - Fixed that some buildings did not return any of their ingredients
+    - Fixed nighttime appearing suddenly due to incorrect offsets for start of daytime cycle
+---------------------------------------------------------------------------------------------------
+Version: 0.0.17
+Date: 2024.10.20
+  Features:
+    - Sacrifices for exfret
+    - Peperos cameo
+    - A tech where you have to sit down and think really hard
+    - Research for roller skates
+    - Fish cameos for other playtesters
+    - Oil solidification
+    - Heavy armor is heavy and light armor is light
+    - A sunny new challenge
+    - A completely, absolutely, utterly useless research that totally does not do a single thing
+    - Oil fish
+    - Nuclear fish
+    - Custom message when exfret is in the game
+    - Inserter capacity bonus 2 is behind blue science now
+  Changes:
+    - Mining drill mining area increased
+    - Oil refinery crafting speed is 2
+    - Burner inserters have been made even better, just in case they weren't convincing enough before
+    - Underground fluid distances are now shorter
+    - Assembly machine 2's are slightly worse
+  Bugfixes:
+    - Refinery researches aren't unlocked on startup
+    - Mining buildings gives back ingredients according to new recipes for them rather than old
+    - Fixed changelog order being off
+    - Fixed crash when placing max number of beacons
+---------------------------------------------------------------------------------------------------
+Version: 0.0.16
+Date: 2024.10.20
+  Bugfixes:
+    - Hotfix for oil cracking
+---------------------------------------------------------------------------------------------------
+Version: 0.0.15
+Date: 2024.10.19
+  Features:
+    - Lunar panels
+    - Mining an entity gives you back its ingredients
+    - A technology that regenerates biter bases and has no other redeeming qualities
+    - Overhauled low density structures to live up to the latter half of their name
+    - Crude oil is a bit different
+    - Cliffside silo assembly
+    - Chemical plants are replaced by physical plants
+    - Refined version of solid fuel refining, refined
+    - Rocket parts are made with letters F, U, and N, which have their own recipes
+    - Picking up characters (the corpse) gives characters (the item), which are used in the U
+    - "Encouraging" messages as you get farther into the game
+    - Put chain signals at an appropriate position in the technology tree
+  Changes:
+    - Moved finesse research for not tripping over cliffs to green science
+    - Made longness require automation
+    - Changed research multiplier increase challenge to +10% rather than +50%
+    - Explosives can't be cheesed as easily
+    - Made assembler 2's faster
+    - Made bob research cheaper
+    - Heat exchangers smelt into boilers
+    - Offshore pump 2 v2 now requires uranium and rocket parts don't
+    - Made driving less terrible
+    - Rocket no longer requires 110 rocket parts
+---------------------------------------------------------------------------------------------------
+Version: 0.0.14
+Date: 2024.08.20
+  Features:
+    - Added cheeseman
+    - Added custom message for Dosh if he ever plays this
+    - New walls
+    - Properly sorted lubricant in menu
+    - Mining the crashed ship kills you
+    - Steam engines smelt into steam turbines
+    - Spoons are inserted into player inventories at the 8 hour mark
+  Changes:
+    - Removed Objectives (but kept mercy research)
+    - Removed change to burner/electric mining drill mining area
+    - It's now easier to mine character corpses
+    - Fast belts have normal animation (other belts are still backwards)
+    - Longer arms is now only a double modifier not a triple
+    - Removed "disconnecting" while shooting gun due to bugginess
+    - Removed void tile mining due to bugginess (you still get sand when placing stone bricks)
+    - Attack cost modifier buffed to x2
+    - Changed physical projectile damage tech to "bonk damage"
+    - Bob research now just requires many burner inserters
+    - Decreased number of fires at startup
+    - Made day-night cycle normal again
+  Bugfixes:
+    - Fixed crash with instability research
+---------------------------------------------------------------------------------------------------
+Version: 0.0.13
+Date: 2024.08.11
+  Features:
+    - Lubricant is now an item
+    - Green stuff research
+    - Added Bob
+    - Switched boiler fluid boxes
+    - Burner mining drills now can mine one tile around them, but electric drills can no longer do that
+    - Added mercy system through technology unlocks
+    - Ability to change permanent things back with an expensive research
+    - Added a new challenge that rotates transport belts
+  Changes:
+    - Huge rocks spawn more biters
+    - Renamed Damage Packs to Complex Doohickeys and allowed them to be successfully used by robots
+    - Logistics 3 now has water 2 v2 as a prerequisite rather than lubricant
+    - The steel recipe has been buffed to become 2500 iron to 1000 steel
+    - Made fluid connections not as absurdly long
+    - Removed shift for longness research
+    - Lab 2's are now bigger
+    - Lab 2's now have their own recipe that is different from lab 1's
+    - Added message to hint that robots would use doohickey better
+    - Flamethrowers were buffed (arc not so bad anymore)
+    - Tweaked numbers for hazard concrete damage and speedup
+  Bugfixes:
+    - Decoratives no longer spawn on lakes
+    - Fixed crash when repair packs in hand ran out
+    - Express normal and underground belts weren't previously using water 2 v2 as an ingredient
+    - Water 2, Version 2 now has correct research ingredients
+---------------------------------------------------------------------------------------------------
+Version: 0.0.12
+Date: 2024.08.10
+  Features:
+    - New undergroundiness to all fluid boxes
+    - Some technologies to deal with the challenges better
+    - Some stuff for stone bricks
+  Changes:
+    - Optimized control phase code massively
+    - Made rocket silo not take tons of energy
+    - Reverted ghost tint back to normal
+  Bugfixes:
+    - Fixed straight driving being possible
+    - Mining rocks via robots or destroying them still creates biters
+---------------------------------------------------------------------------------------------------
+Version: 0.0.11
+Date: 2024.08.03
+---------------------------------------------------------------------------------------------------
+Version: 0.0.10
+Date: 2024.07.31
+  Features:
+    - Repair packs are now damage packs
+    - Added ring of fire on startup
+    - Evolution factor has been scaled down so it always reports near zero (medium/big/etc. biters still appear after the same amount of time/pollution/nest destruction)
+    - Added a challenge
+    - Gates now close when the player is near and are normally open
+  Changes:
+    - The challenge that removes research progress only removes at most 1000 science cycles at once
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 2024.07.30
+  Features:
+    - Playtested as a group with some people
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 2024.07.30
+  Features:
+    - Switched colors of some boxes
+    - A lot of stuff
+  Changes:
+    - Inserter directions are now different rather than all downwards
+    - More accurate detection of whether you've fallen off a cliff
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 2024.07.28
+  Changes:
+    - Reorganized a bunch of stuff in the hopes of making the mod more coherent
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2023.11.09
+  Bugfixes:
+    - Fixed crash with floor is lava on player respawn
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2023.11.09
+  Features:
+    - No more straight driving
+  Changes:
+    - Pipes can now be placed using Fish Pipes
+    - Idk a bunch
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2023.10.31
+  Features:
+    - You can't walk over belts
+    - Pipes can't be placed (use storage tanks and pumps instead)
+    - Added heavy inventory mod prereq
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2023.10.31
+  Bugfixes:
+    - Some crashes
+    - Softlocks via coal being too hard
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2023.10.18
+  Features:
+    - Recipe failure chance
+    - Invisible trains
+    - Random "challenges"
+    - No northward belts
+    - Many values are "twice as bad"
+    - A lot of other stuff
